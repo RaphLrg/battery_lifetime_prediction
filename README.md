@@ -1,2 +1,2 @@
 # battery_lifetime_prediction
-Battery lifetime prédiction using several machine learning methods (with Python 3).
+Battery lifetime prediction using several machine learning methods (with Python 3).
