@@ -1,0 +1,1 @@
+Ce jeu de variables contient la moyenne, valeur max et min des différentes caractéristiques des batteries lors du 100eme cycle de charge/décharge
